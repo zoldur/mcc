@@ -4,7 +4,7 @@ Shell script to install a [MCC Masternode](https://www.mccproject.net/) on a Lin
 
 ## Installation
 ```
-wget -q https://raw.githubusercontent.com/zoldur/Mcc/master/mcc_install.sh
+wget -q https://raw.githubusercontent.com/zoldur/mcc/master/mcc_install.sh
 bash mcc_install.sh
 ```
 ***
